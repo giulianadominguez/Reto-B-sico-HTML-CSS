@@ -1,0 +1,50 @@
+body {
+    font-family: Verdana;
+}
+
+#color-tituloh2{
+    color: #2c2b2b;
+    font-weight: bold;
+}
+
+.color-titulo{
+    color: #2c2b2b;
+    font-weight: bold;
+}
+
+#texto-centrado{
+    margin: 0%;
+    padding: 0%;
+}
+
+#color-tabla{
+    color: white;
+    background-color: gray;
+}
+
+#color-fondotab{
+    background-color: gainsboro;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 10px;
+    
+}
+
+
+
+
+
+
+
+
+    
+  
+
+    
+    
+   
+        
+ 
